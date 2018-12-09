@@ -30,5 +30,5 @@ The contents may be freely distributed and changed.
 Updates:
 --------
 
-* 04/12/18 - 1.0
+* 10/12/18 - 1.0
   - First public version made available

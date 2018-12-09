@@ -1055,14 +1055,19 @@
             <area>0,0,100%,100%</area>
         </shape>
 
+        <imagetype name="headerimg">
+            <area>20,5,460,75</area>
+            <filename>ui/teddypresents.gif</filename>
+        </imagetype>
+
         <textarea name="messagearea" from="basetextarea">
-            <area>12,14,470,210</area>
+            <area>12,80,475,142</area>
             <multiline>yes</multiline>
             <align>allcenter</align>
         </textarea>
 
         <buttonlist name="list" from="basebuttonlist">
-            <area>12,224,470,250</area>
+            <area>12,224,475,250</area>
             <drawfrombottom>yes</drawfrombottom>
             <showarrow>no</showarrow>
             <wrapstyle>selection</wrapstyle>
@@ -1578,13 +1583,7 @@
             <filename>backgrounds/</filename>
             <delay>60000</delay>
         </imagetype>
-<!--
-        <imagetype name="snow">
-            <area>0,0,1280,720</area>
-            <filename>ui/snow.gif</filename>
-            <delay>200</delay>
-        </imagetype>
--->
+
         <fontdef name="medium" face="Droid Sans">
             <color>#FFFFFF</color>
             <pixelsize>26</pixelsize>
