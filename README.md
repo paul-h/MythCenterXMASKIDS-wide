@@ -32,3 +32,5 @@ Updates:
 
 * 10/12/18 - 1.0
   - First public version made available
+* 01/12/20 - 1.1
+  - update the web browser and news feed edit metadata screens
