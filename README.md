@@ -34,3 +34,5 @@ Updates:
   - First public version made available
 * 01/12/20 - 1.1
   - update the web browser and news feed edit metadata screens
+* 05/12/20 - 1.2
+  - add season, episode, year, category and first aired to the watch recordings screen
